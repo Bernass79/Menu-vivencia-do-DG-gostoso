@@ -1896,8 +1896,8 @@ end)
 local Whitelist = {
     "ZoeEagle81",
     "NightStealth72",
-	"EchoHyperPixelated",
-	"TigerStarry2023",
+	"NeymarJRSilvaCosta10",
+	"dglancaperfume",
 	"AddisonCrystalPrimal",
 	"KeijuMinas",
 	"HunterFusion79",
